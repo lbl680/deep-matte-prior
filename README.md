@@ -1,6 +1,7 @@
 # deep-matte-prior
 
 #### Introduction
+Implementation of paper "Unsupervised deep background matting using deep matte prior"
 Please check the paper [link](https://ieeexplore.ieee.org/document/9634025)
 
 
